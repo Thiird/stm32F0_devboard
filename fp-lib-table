@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/footprints/Library.pretty")(options "")(descr ""))
+  (lib (name "MT29F2G01ABAGDWB")(type "KiCad")(uri "${KIPRJMOD}/footprints/MT29F2G01ABAGDWB.pretty")(options "")(descr ""))
+  (lib (name "SN74LVC2G04DCKR")(type "KiCad")(uri "${KIPRJMOD}/footprints/SN74LVC2G04DCKR.pretty")(options "")(descr ""))
+  (lib (name "SKRPACE010")(type "KiCad")(uri "${KIPRJMOD}/footprints/SKRPACE010.pretty")(options "")(descr ""))
+  (lib (name "SSSS811101 ")(type "KiCad")(uri "${KIPRJMOD}/footprints/SSSS811101 .pretty")(options "")(descr ""))
+)
